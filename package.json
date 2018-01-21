@@ -11,6 +11,7 @@
     "art": "^0.10.1",
     "lodash": "^4.17.4",
     "numeral": "^2.0.6",
+    "prop-types": "^15.6.0",
     "react": "16.2.0",
     "react-native": "0.52.0",
     "react-native-vector-icons": "^4.5.0",
